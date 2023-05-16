@@ -2,7 +2,7 @@
 ( K67J - CN16 - UET)
 MSV: 22026537
 - Đây là bài tập lớn cuối kì môn lập trình nâng cao của mình, một sản phẩm game đầu tay: Jump Man! 
-1. Ý tưởng: Dựa trên lối chơi của game Zombie Tsunami, sửa đổi về cách chơi, mong muốn mang lại một game tốt.
+1. Ý tưởng: Dựa trên lối chơi của game Zombie Tsunami, sửa đổi về cách chơi, mong muốn mang lại một game tốt hơn.
 
 2. Tính năng game:
  - Bản đồ game được sinh ra ngẫu nhiễn.
