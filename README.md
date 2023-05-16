@@ -14,7 +14,7 @@ MSV: 22026537
 3. Cách chơi:
  - Nhân vật sẽ di chuyển xa ra khỏi chuột nên dùng chuột để điều khiển nhân vật.
  - Click chuột Trái để nhân vật nhảy ( Chuột càng gần, nhân vật nhảy càng cao).
- (!) CHÚ Ý: Không để chuột chạm vào nhân vật, nếu chạm vào bạn sẽ CHẾT.
+ - CHÚ Ý: Không để chuột chạm vào nhân vật, nếu chạm vào bạn sẽ CHẾT.
  
  
 4. Hướng cải thiện:
